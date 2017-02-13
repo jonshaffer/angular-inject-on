@@ -1,0 +1,24 @@
+{
+  "name": "angular-inject-on",
+  "version": "1.0.0",
+  "description": "Assigns DI parameters as class fields automatically. For Angular 1.x + ES6 classes.",
+  "files": [
+    "dist/**"
+  ],
+  "main": "dist/injectOn.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonshaffer/angular-inject-on.git"
+  },
+  "author": "Maciej Gurban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonshaffer/angular-inject-on/issues"
+  },
+  "homepage": "https://github.com/jonshaffer/angular-inject-on#readme"
+}
